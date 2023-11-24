@@ -790,7 +790,7 @@ From our analysis, we were able to answer several of the questions we started wi
 
 
 ## Presentation
-https://docs.google.com/presentation/d/1f93N2tBkFzOsnvKHm8yDEEB_12Z-LlqSyPY9UlhBH0Q/edit?usp=sharing
+
 
 [link to Pie Charts Dashboard](https://public.tableau.com/app/profile/rajeev.thimmareddy/viz/FinalProjectVisualizations_16756661848350/PieChartDashboard)
 
